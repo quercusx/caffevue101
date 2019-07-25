@@ -4,6 +4,13 @@
 
 <script>
 export default {
-  name: 'Contact'
+  name: 'Contact',
+
+  metaInfo: {
+    title: 'Kontakt na nas',
+    meta: [
+      { name: 'description', content: 'Kontaktna stranka' }
+    ]
+  }
 }
 </script>

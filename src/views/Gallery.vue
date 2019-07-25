@@ -4,6 +4,12 @@
 
 <script>
 export default {
-  name: 'Gallery'
+  name: 'Gallery',
+  metaInfo: {
+    title: 'Galeria',
+    meta: [
+      { name: 'description', content: 'Krasna galeria' }
+    ]
+  }
 }
 </script>

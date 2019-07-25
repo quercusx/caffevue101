@@ -4,6 +4,12 @@
 
 <script>
 export default {
-  name: 'Products'
+  name: 'Products',
+  metaInfo: {
+    title: 'Produkty',
+    meta: [
+      { name: 'description', content: 'Produktova strankas' }
+    ]
+  }
 }
 </script>

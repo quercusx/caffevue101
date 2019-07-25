@@ -20,6 +20,11 @@ export default {
   components: {
     AppTitle,
     AppNavigation
+  },
+
+  metaInfo: {
+    title: 'Kaviaren',
+    titleTemplate: 'Kaviaren - %s'
   }
 }
 </script>
