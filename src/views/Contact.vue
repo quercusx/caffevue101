@@ -1,9 +1,9 @@
 <template>
-  <h1>Domov</h1>
+  <h1>Kontaktna stranka</h1>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Contact'
 }
 </script>

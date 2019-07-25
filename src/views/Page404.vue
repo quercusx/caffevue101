@@ -1,9 +1,9 @@
 <template>
-  <h1>Domov</h1>
+  <h1>Page sa nenasla</h1>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Page404'
 }
 </script>
